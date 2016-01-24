@@ -1,0 +1,28 @@
+name: William West Studio
+favicon: null
+layout_spectrum: 0.576194254681468
+typography_spectrum: 0.7945256298407912
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.5186514186207205
+  lightness: 0.4442781722173095
+  saturation: 0.379904821049422
+  rhythmicContrast: 0.00133427232503891
+purpose: []
